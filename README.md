@@ -27,5 +27,5 @@ Result: 10.0 + 5.0 = 15.0
 
 Author
 
-Your Name – Intern @ [Elevate Labs]
+Ragav – Intern @ [Elevate Labs]
 
